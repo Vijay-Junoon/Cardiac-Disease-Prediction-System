@@ -1,0 +1,8 @@
+Cardiac Disease Prediction System is an intelligent health analytics application designed to assist users in assessing their risk of heart disease based on various medical parameters. Built using Python, Tkinter for the GUI, and MySQL for database management, the system utilizes a Logistic Regression model trained on real-world health data to provide accurate predictions and personalized suggestions.
+
+This project was developed as part of an academic/independent initiative. The dedicated contributors include:
+Ganesh
+Sreemayi
+Vishwam
+Vijay
+Each member played a crucial role in bringing this system to life, with a shared goal of applying technology to improve preventive healthcare.
